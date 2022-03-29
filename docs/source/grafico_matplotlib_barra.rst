@@ -6,7 +6,7 @@ Gráfico de barras
 
 •	Usamos um gráfico de barra **quando precisamos comparar quantidades de categorias diferentes**.
 
-.. image:: images/grafico/grafico_barra.png
+.. image:: images/graficos/grafico_barra.png
    :align: center
    :width: 550
  
@@ -43,7 +43,7 @@ Para este grpafico usaremos uma base de dados ("olist_order_payments_dataset.xls
       
 **Este é o resultado:**
 
-.. image:: images/grafico/head_oilist.png
+.. image:: images/graficos/head_oilist.png
    :align: center
    :width: 650
 
