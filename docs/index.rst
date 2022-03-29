@@ -30,7 +30,7 @@ Orbe.AI - material de referência
 
 
 .. toctree::
-   :caption: GRAFICOS
+   :caption: GRÁFICOS
    :maxdepth: 1
 
    grafico_matplotlib_introducao.rst
